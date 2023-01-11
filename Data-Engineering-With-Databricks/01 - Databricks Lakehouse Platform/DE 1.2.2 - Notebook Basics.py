@@ -28,6 +28,10 @@
 
 # COMMAND ----------
 
+print("this is change in next commit")
+
+# COMMAND ----------
+
 # MAGIC %md
 # MAGIC ## Attach to a Cluster
 # MAGIC 
